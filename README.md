@@ -1,2 +1,2 @@
-# nodehive
+# nodeHive
 Node JS Examples
